@@ -3,17 +3,15 @@ title: Entity Metadata Management API 0.1
 permalink: api/0.1/
 layout: spec
 cssversion: 3
-tags: [specifications, recommendations, api]
+tags: [specifications, api]
 major: 0
-minor: 0
-patch: 1
+minor: 1
+patch: 0
 pre: final
 redirect_from:
   - /index.html
-  - /recommendations.html
   - /api/
   - /api/index.html
-  - /api/recommendations.html
 editors:
   - name: David Eichmann
     orcid: https://orcid.org/0000-0003-3150-8758
