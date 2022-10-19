@@ -1,6 +1,6 @@
 ---
 title: Entity Metadata Management API 0.1
-permalink: api/0.1/recommendations.html
+permalink: api/0.1/
 layout: spec
 cssversion: 3
 tags: [specifications, recommendations, api]
